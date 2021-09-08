@@ -1,6 +1,8 @@
 # 一次修复OPENSCP报告中显示问题的经历 (基于PCI-DSS合规性)
 
+
 ### 基础背景:
+
 
 操作系统: AWS 上的 Amazon Linux 2 (amzn2-ami-hvm-2.0.20210525.0-x86_64.xfs.gpt // 20210603202057)
 
